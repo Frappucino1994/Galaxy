@@ -1,2 +1,2 @@
 # Galaxy
-First project for SDE training
+First project for Alice's SDE training
